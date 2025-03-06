@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\play.catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\play.catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\play.catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\play.catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\Lenovo LOQ\\.nuget\\packages\\",
-        "outputPath": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "E:\\Kuliah\\Semester 12\\Desain Arsitektur Microservice\\SampleMicroservice\\play.catalog\\src\\play.catalog.service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config"

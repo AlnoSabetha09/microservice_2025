@@ -35,3 +35,9 @@ E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\Play.Cat
 E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.genruntimeconfig.cache
 E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\ref\Play.Catalog.Service.dll
 E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.sourcelink.json
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\DnsClient.dll
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\MongoDB.Bson.dll
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\MongoDB.Driver.dll
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\SharpCompress.dll
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\Snappier.dll
+E:\Kuliah\Semester 12\Desain Arsitektur Microservice\SampleMicroservice\play.catalog\src\play.catalog.service\bin\Debug\net9.0\ZstdSharp.dll
